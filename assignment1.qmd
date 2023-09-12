@@ -1,0 +1,11 @@
+---
+title: "Assignment 1"
+---
+
+[Katie's Movie Survey](https://utdallas.qualtrics.com/jfe/form/SV_20pYoBjzvIrYjPg)
+
+![](images/Widner_6302_assignment01_Qualtrics.pdf)
+
+```{r}
+1 + 1
+```
